@@ -1,0 +1,1 @@
+Repositório criado para arquivar a atividade de grafos da disciplina de Estrutura de Dados 2, Engenharia da Computação pela UTFpr de Cornélio Procópio.
